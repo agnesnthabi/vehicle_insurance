@@ -375,7 +375,7 @@ def main():
                         background='#4c416bff'
                     ).configure_axis(
                         labelAngle=0,
-                        labelColor='white',   # Change axis label color
+                        labelColor='white', 
                         titleColor='white'
                         )
                         
